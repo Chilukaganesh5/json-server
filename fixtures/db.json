@@ -1,13 +1,11 @@
 {
   "posts": [
-    { "id": "1", "title": "a title" },
-    { "id": "2", "title": "another title" }
+    { "id": "1", "title": "Ganesh is on 🔥" },
+    { "id": "2", "title": "DevOps King 👑" },
+    { "id": "3", "title": "json-server on Render!" }
   ],
-  "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
-  ],
+  "comments": [],
   "profile": {
-    "name": "typicode"
+    "name": "Ganesh"
   }
 }
